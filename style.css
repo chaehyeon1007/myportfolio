@@ -48,9 +48,9 @@ nav ul li a:hover{
 }
 
 .hero{
-background: #7C3AED;
-background: linear-gradient(90deg, rgba(124, 58, 237, 1) 0%, rgba(89, 114, 207, 1) 20%, rgba(192, 200, 240, 1) 50%, rgba(89, 114, 207, 1) 80%, rgba(124, 58, 237, 1) 100%);
-    color:white;
+background: #301599;
+background: linear-gradient(90deg, rgba(48, 21, 153, 1) 0%, rgba(46, 70, 158, 1) 25%, rgba(128, 152, 224, 1) 50%, rgba(46, 70, 158, 1) 75%, rgba(48, 21, 153, 1) 100%);
+color: white;
     padding: 100px 20px;
     text-align: center;
     animation: fadeUp 1.5s ease;
